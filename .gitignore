@@ -1,0 +1,50 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+env/
+
+# Airflow generated files
+
+logs/
+.logs/
+airflow.db
+
+# Environment files
+
+.env
+.env.local
+
+# macOS
+
+.DS_Store
+
+# VS Code
+
+.vscode/
+
+# IntelliJ / PyCharm
+
+.idea/
+
+# Docker
+
+*.log
+
+# Temporary files
+
+tmp/
+temp/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+
