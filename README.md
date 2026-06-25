@@ -1,4 +1,4 @@
-# Aiflow Log Analyzer
+# Airflow Log Analyzer
 
 This project builds on the previous `marketvol` Airflow mini-project. It adds a Python log analyzer that recursively reads Airflow `.log` files, counts `ERROR` entries, and prints detailed information for every error found.
 
